@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://fklavye.github.io/sitemap.xml
